@@ -1,4 +1,4 @@
-# GTC-Perfumes
+# GTG-Perfumes
 # GTG Perfumes 🌿✨
 
 A modern and fully responsive perfume subscription landing page built using **HTML, CSS, JavaScript, and Bootstrap**.  
